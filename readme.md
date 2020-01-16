@@ -278,7 +278,5 @@ You can only use the two-letter code ISO 639-1: en, uk, de, fr ...
 
 ## Sources
 https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code
-https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-
-## Many thank's
 https://currencyrate.today/
+https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
