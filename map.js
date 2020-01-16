@@ -19,11 +19,6 @@ module.exports = {
     dir: 1,
     native: 'Akana'
   },
-  als: {
-    name: 'Alemannic',
-    dir: 1,
-    native: 'Alemannisch'
-  },
   am: {
     name: 'Amharic',
     dir: 1,
@@ -34,40 +29,20 @@ module.exports = {
     dir: 1,
     native: 'Aragonés'
   },
-  ang: {
-    name: 'Anglo-Saxon / Old English',
-    dir: 1,
-    native: 'Englisc'
-  },
   ar: {
     name: 'Arabic',
     dir: 0,
     native: 'العربية'
-  },
-  arc: {
-    name: 'Aramaic',
-    dir: 0,
-    native: 'ܣܘܪܬ'
   },
   as: {
     name: 'Assamese',
     dir: 1,
     native: 'অসমীয়া'
   },
-  ast: {
-    name: 'Asturian',
-    dir: 1,
-    native: 'Asturianu'
-  },
   av: {
     name: 'Avar',
     dir: 1,
     native: 'Авар'
-  },
-  awa: {
-    name: 'Awadhi',
-    dir: 1,
-    native: 'Awadhi'
   },
   ay: {
     name: 'Aymara',
@@ -84,30 +59,10 @@ module.exports = {
     dir: 1,
     native: 'Башҡорт'
   },
-  bar: {
-    name: 'Bavarian',
-    dir: 1,
-    native: 'Boarisch'
-  },
-  'bat-smg': {
-    name: 'Samogitian',
-    dir: 1,
-    native: 'Žemaitėška'
-  },
-  bcl: {
-    name: 'Bikol',
-    dir: 1,
-    native: 'Bikol Central'
-  },
   be: {
     name: 'Belarusian',
     dir: 1,
     native: 'Беларуская'
-  },
-  'be-x-old': {
-    name: 'Belarusian (Taraškievica)',
-    dir: 1,
-    native: 'Беларуская (тарашкевіца)'
   },
   bg: {
     name: 'Bulgarian',
@@ -139,11 +94,6 @@ module.exports = {
     dir: 1,
     native: 'བོད་ཡིག / Bod skad'
   },
-  bpy: {
-    name: 'Bishnupriya Manipuri',
-    dir: 1,
-    native: 'ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী'
-  },
   br: {
     name: 'Breton',
     dir: 1,
@@ -154,55 +104,20 @@ module.exports = {
     dir: 1,
     native: 'Bosanski'
   },
-  bug: {
-    name: 'Buginese',
-    dir: 1,
-    native: 'ᨅᨔ ᨕᨘᨁᨗ / Basa Ugi'
-  },
-  bxr: {
-    name: 'Buriat (Russia)',
-    dir: 1,
-    native: 'Буряад хэлэн'
-  },
   ca: {
     name: 'Catalan',
     dir: 1,
     native: 'Català'
-  },
-  cdo: {
-    name: 'Min Dong Chinese',
-    dir: 1,
-    native: 'Mìng-dĕ̤ng-ngṳ̄ / 閩東語'
   },
   ce: {
     name: 'Chechen',
     dir: 1,
     native: 'Нохчийн'
   },
-  ceb: {
-    name: 'Cebuano',
-    dir: 1,
-    native: 'Sinugboanong Binisaya'
-  },
   ch: {
     name: 'Chamorro',
     dir: 1,
     native: 'Chamoru'
-  },
-  cho: {
-    name: 'Choctaw',
-    dir: 1,
-    native: 'Choctaw'
-  },
-  chr: {
-    name: 'Cherokee',
-    dir: 1,
-    native: 'ᏣᎳᎩ'
-  },
-  chy: {
-    name: 'Cheyenne',
-    dir: 1,
-    native: 'Tsetsêhestâhese'
   },
   co: {
     name: 'Corsican',
@@ -218,11 +133,6 @@ module.exports = {
     name: 'Czech',
     dir: 1,
     native: 'Česky'
-  },
-  csb: {
-    name: 'Kashubian',
-    dir: 1,
-    native: 'Kaszëbsczi'
   },
   cu: {
     name: 'Old Church Slavonic / Old Bulgarian',
@@ -248,16 +158,6 @@ module.exports = {
     name: 'German',
     dir: 1,
     native: 'Deutsch'
-  },
-  diq: {
-    name: 'Dimli',
-    dir: 1,
-    native: 'Zazaki'
-  },
-  dsb: {
-    name: 'Lower Sorbian',
-    dir: 1,
-    native: 'Dolnoserbski'
   },
   dv: {
     name: 'Divehi',
@@ -304,11 +204,6 @@ module.exports = {
     dir: 1,
     native: 'Euskara'
   },
-  ext: {
-    name: 'Extremaduran',
-    dir: 1,
-    native: 'Estremeñu'
-  },
   fa: {
     name: 'Persian',
     dir: 0,
@@ -323,11 +218,6 @@ module.exports = {
     name: 'Finnish',
     dir: 1,
     native: 'Suomi'
-  },
-  'fiu-vro': {
-    name: 'Võro',
-    dir: 1,
-    native: 'Võro'
   },
   fj: {
     name: 'Fijian',
@@ -344,16 +234,6 @@ module.exports = {
     dir: 1,
     native: 'Français'
   },
-  frp: {
-    name: 'Arpitan / Franco-Provençal',
-    dir: 1,
-    native: 'Arpitan / francoprovençal'
-  },
-  fur: {
-    name: 'Friulian',
-    dir: 1,
-    native: 'Furlan'
-  },
   fy: {
     name: 'West Frisian',
     dir: 1,
@@ -364,25 +244,10 @@ module.exports = {
     dir: 1,
     native: 'Gaeilge'
   },
-  gan: {
-    name: 'Gan Chinese',
-    dir: 1,
-    native: '贛語'
-  },
-  gbm: {
-    name: 'Garhwali',
-    dir: 1,
-    native: 'गढ़वळी'
-  },
   gd: {
     name: 'Scottish Gaelic',
     dir: 1,
     native: 'Gàidhlig'
-  },
-  gil: {
-    name: 'Gilbertese',
-    dir: 1,
-    native: 'Taetae ni kiribati'
   },
   gl: {
     name: 'Galician',
@@ -393,11 +258,6 @@ module.exports = {
     name: 'Guarani',
     dir: 1,
     native: 'Avañe\'ẽ'
-  },
-  got: {
-    name: 'Gothic',
-    dir: 1,
-    native: 'gutisk'
   },
   gu: {
     name: 'Gujarati',
@@ -413,16 +273,6 @@ module.exports = {
     name: 'Hausa',
     dir: 0,
     native: 'هَوُسَ'
-  },
-  hak: {
-    name: 'Hakka Chinese',
-    dir: 1,
-    native: '客家語/Hak-kâ-ngî'
-  },
-  haw: {
-    name: 'Hawaiian',
-    dir: 1,
-    native: 'Hawai`i'
   },
   he: {
     name: 'Hebrew',
@@ -494,16 +344,6 @@ module.exports = {
     dir: 1,
     native: 'Iñupiak'
   },
-  ilo: {
-    name: 'Ilokano',
-    dir: 1,
-    native: 'Ilokano'
-  },
-  inh: {
-    name: 'Ingush',
-    dir: 1,
-    native: 'ГӀалгӀай'
-  },
   io: {
     name: 'Ido',
     dir: 1,
@@ -528,11 +368,6 @@ module.exports = {
     name: 'Japanese',
     dir: 1,
     native: '日本語'
-  },
-  jbo: {
-    name: 'Lojban',
-    dir: 1,
-    native: 'Lojban'
   },
   jv: {
     name: 'Javanese',
@@ -579,11 +414,6 @@ module.exports = {
     dir: 1,
     native: 'ಕನ್ನಡ'
   },
-  khw: {
-    name: 'Khowar',
-    dir: 0,
-    native: 'کھوار'
-  },
   ko: {
     name: 'Korean',
     dir: 1,
@@ -598,11 +428,6 @@ module.exports = {
     name: 'Kashmiri',
     dir: 0,
     native: 'कश्मीरी / كشميري'
-  },
-  ksh: {
-    name: 'Ripuarian',
-    dir: 1,
-    native: 'Ripoarisch'
   },
   ku: {
     name: 'Kurdish',
@@ -629,16 +454,6 @@ module.exports = {
     dir: 1,
     native: 'Latina'
   },
-  lad: {
-    name: 'Ladino / Judeo-Spanish',
-    dir: 1,
-    native: 'Dzhudezmo / Djudeo-Espanyol'
-  },
-  lan: {
-    name: 'Lango',
-    dir: 1,
-    native: 'Leb Lango / Luo'
-  },
   lb: {
     name: 'Luxembourgish',
     dir: 1,
@@ -654,16 +469,6 @@ module.exports = {
     dir: 1,
     native: 'Limburgs'
   },
-  lij: {
-    name: 'Ligurian',
-    dir: 1,
-    native: 'Líguru'
-  },
-  lmo: {
-    name: 'Lombard',
-    dir: 1,
-    native: 'Lumbaart'
-  },
   ln: {
     name: 'Lingala',
     dir: 1,
@@ -673,11 +478,6 @@ module.exports = {
     name: 'Laotian',
     dir: 1,
     native: 'ລາວ / Pha xa lao'
-  },
-  lzz: {
-    name: 'Laz',
-    dir: 1,
-    native: 'Lazuri / ლაზური'
   },
   lt: {
     name: 'Lithuanian',
@@ -689,20 +489,10 @@ module.exports = {
     dir: 1,
     native: 'Latviešu'
   },
-  'map-bms': {
-    name: 'Banyumasan',
-    dir: 1,
-    native: 'Basa Banyumasan'
-  },
   mg: {
     name: 'Malagasy',
     dir: 1,
     native: 'Malagasy'
-  },
-  man: {
-    name: 'Mandarin',
-    dir: 1,
-    native: '官話/官话'
   },
   mh: {
     name: 'Marshallese',
@@ -713,11 +503,6 @@ module.exports = {
     name: 'Maori',
     dir: 1,
     native: 'Māori'
-  },
-  min: {
-    name: 'Minangkabau',
-    dir: 1,
-    native: 'Minangkabau'
   },
   mk: {
     name: 'Macedonian',
@@ -754,16 +539,6 @@ module.exports = {
     dir: 1,
     native: 'bil-Malti'
   },
-  mus: {
-    name: 'Creek / Muskogee',
-    dir: 1,
-    native: 'Mvskoke'
-  },
-  mwl: {
-    name: 'Mirandese',
-    dir: 1,
-    native: 'Mirandés'
-  },
   my: {
     name: 'Burmese',
     dir: 1,
@@ -774,40 +549,15 @@ module.exports = {
     dir: 1,
     native: 'Dorerin Naoero'
   },
-  nah: {
-    name: 'Nahuatl',
-    dir: 1,
-    native: 'Nahuatl'
-  },
-  nap: {
-    name: 'Neapolitan',
-    dir: 1,
-    native: 'Nnapulitano'
-  },
   nd: {
     name: 'North Ndebele',
     dir: 1,
     native: 'Sindebele'
   },
-  nds: {
-    name: 'Low German / Low Saxon',
-    dir: 1,
-    native: 'Plattdüütsch'
-  },
-  'nds-nl': {
-    name: 'Dutch Low Saxon',
-    dir: 1,
-    native: 'Nedersaksisch'
-  },
   ne: {
     name: 'Nepali',
     dir: 1,
     native: 'नेपाली'
-  },
-  new: {
-    name: 'Newar',
-    dir: 1,
-    native: 'नेपालभाषा / Newah Bhaye'
   },
   ng: {
     name: 'Ndonga',
@@ -833,16 +583,6 @@ module.exports = {
     name: 'South Ndebele',
     dir: 1,
     native: 'isiNdebele'
-  },
-  nso: {
-    name: 'Northern Sotho',
-    dir: 1,
-    native: 'Sesotho sa Leboa / Sepedi'
-  },
-  nrm: {
-    name: 'Norman',
-    dir: 1,
-    native: 'Nouormand / Normaund'
   },
   nv: {
     name: 'Navajo',
@@ -884,45 +624,15 @@ module.exports = {
     dir: 1,
     native: 'ਪੰਜਾਬੀ / पंजाबी / پنجابي'
   },
-  pag: {
-    name: 'Pangasinan',
-    dir: 1,
-    native: 'Pangasinan'
-  },
-  pam: {
-    name: 'Kapampangan',
-    dir: 1,
-    native: 'Kapampangan'
-  },
-  pap: {
-    name: 'Papiamentu',
-    dir: 1,
-    native: 'Papiamentu'
-  },
-  pdc: {
-    name: 'Pennsylvania German',
-    dir: 1,
-    native: 'Deitsch'
-  },
   pi: {
     name: 'Pali',
     dir: 1,
     native: 'Pāli / पाऴि'
   },
-  pih: {
-    name: 'Norfolk',
-    dir: 1,
-    native: 'Norfuk'
-  },
   pl: {
     name: 'Polish',
     dir: 1,
     native: 'Polski'
-  },
-  pms: {
-    name: 'Piedmontese',
-    dir: 1,
-    native: 'Piemontèis'
   },
   ps: {
     name: 'Pashto',
@@ -944,11 +654,6 @@ module.exports = {
     dir: 1,
     native: 'Rumantsch'
   },
-  rmy: {
-    name: 'Romani',
-    dir: 1,
-    native: 'Romani / रोमानी'
-  },
   rn: {
     name: 'Kirundi',
     dir: 1,
@@ -958,11 +663,6 @@ module.exports = {
     name: 'Romanian',
     dir: 1,
     native: 'Română'
-  },
-  'roa-rup': {
-    name: 'Aromanian',
-    dir: 1,
-    native: 'Armâneashti'
   },
   ru: {
     name: 'Russian',
@@ -983,16 +683,6 @@ module.exports = {
     name: 'Sardinian',
     dir: 1,
     native: 'Sardu'
-  },
-  scn: {
-    name: 'Sicilian',
-    dir: 1,
-    native: 'Sicilianu'
-  },
-  sco: {
-    name: 'Scots',
-    dir: 1,
-    native: 'Scots'
   },
   sd: {
     name: 'Sindhi',
@@ -1018,11 +708,6 @@ module.exports = {
     name: 'Sinhalese',
     dir: 1,
     native: 'සිංහල'
-  },
-  simple: {
-    name: 'Simple English',
-    dir: 1,
-    native: 'Simple English'
   },
   sk: {
     name: 'Slovak',
@@ -1094,11 +779,6 @@ module.exports = {
     dir: 1,
     native: 'తెలుగు'
   },
-  tet: {
-    name: 'Tetum',
-    dir: 1,
-    native: 'Tetun'
-  },
   tg: {
     name: 'Tajik',
     dir: 1,
@@ -1124,11 +804,6 @@ module.exports = {
     dir: 1,
     native: 'Tagalog'
   },
-  tlh: {
-    name: 'Klingon',
-    dir: 1,
-    native: 'tlhIngan-Hol'
-  },
   tn: {
     name: 'Tswana',
     dir: 1,
@@ -1138,11 +813,6 @@ module.exports = {
     name: 'Tonga',
     dir: 1,
     native: 'Lea Faka-Tonga'
-  },
-  tpi: {
-    name: 'Tok Pisin',
-    dir: 1,
-    native: 'Tok Pisin'
   },
   tr: {
     name: 'Turkish',
@@ -1159,11 +829,6 @@ module.exports = {
     dir: 1,
     native: 'Tatarça'
   },
-  tum: {
-    name: 'Tumbuka',
-    dir: 1,
-    native: 'chiTumbuka'
-  },
   tw: {
     name: 'Twi',
     dir: 1,
@@ -1173,11 +838,6 @@ module.exports = {
     name: 'Tahitian',
     dir: 1,
     native: 'Reo Mā`ohi'
-  },
-  udm: {
-    name: 'Udmurt',
-    dir: 1,
-    native: 'Удмурт кыл'
   },
   ug: {
     name: 'Uyghur',
@@ -1209,16 +869,6 @@ module.exports = {
     dir: 1,
     native: 'Việtnam'
   },
-  vec: {
-    name: 'Venetian',
-    dir: 1,
-    native: 'Vèneto'
-  },
-  vls: {
-    name: 'West Flemish',
-    dir: 1,
-    native: 'West-Vlaoms'
-  },
   vo: {
     name: 'Volapük',
     dir: 1,
@@ -1229,30 +879,15 @@ module.exports = {
     dir: 1,
     native: 'Walon'
   },
-  war: {
-    name: 'Waray / Samar-Leyte Visayan',
-    dir: 1,
-    native: 'Winaray / Binisaya Lineyte-Samarnon'
-  },
   wo: {
     name: 'Wolof',
     dir: 1,
     native: 'Wollof'
   },
-  xal: {
-    name: 'Kalmyk',
-    dir: 1,
-    native: 'Хальмг'
-  },
   xh: {
     name: 'Xhosa',
     dir: 1,
     native: 'isiXhosa'
-  },
-  xmf: {
-    name: 'Megrelian',
-    dir: 1,
-    native: 'მარგალური'
   },
   yi: {
     name: 'Yiddish',
@@ -1274,21 +909,6 @@ module.exports = {
     dir: 1,
     native: '中文'
   },
-  'zh-classical': {
-    name: 'Classical Chinese',
-    dir: 1,
-    native: '文言'
-  },
-  'zh-min-nan': {
-    name: 'Minnan',
-    dir: 1,
-    native: 'Bân-lâm-gú'
-  },
-  'zh-yue': {
-    name: 'Cantonese',
-    dir: 1,
-    native: '粵語 / 粤语'
-  },
   zu: {
     name: 'Zulu',
     dir: 1,
@@ -1298,10 +918,5 @@ module.exports = {
     name: 'Norwegian Bokmål',
     dir: 1,
     native: 'Norsk (bokmål)'
-  },
-  'zh-tw': {
-    name: 'Traditional Chinese',
-    dir: 1,
-    native: '‪中文(台灣)‬'
   }
 }
