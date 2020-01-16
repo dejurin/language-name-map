@@ -1,0 +1,11 @@
+{
+  "name": "language-name-map",
+  "version": "0.1.8",
+  "description": "A function to lookup the language name for a given locale code. In data included: english names, native names and directionality.",
+  "main": "language-name-map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
