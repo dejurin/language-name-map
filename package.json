@@ -1,6 +1,6 @@
 {
   "name": "language-name-map",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A function to lookup the language name for a given locale code. In data included: english names, native names and directionality.",
   "main": "language-name-map.js",
   "scripts": {
@@ -35,5 +35,9 @@
   },
   "devDependencies": {
     "tape": "^4.13.0"
+  },
+  "dependencies": {
+    "standard": "^14.3.1",
+    "tap-spec": "^5.0.0"
   }
 }

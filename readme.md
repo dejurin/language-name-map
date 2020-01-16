@@ -21,7 +21,7 @@ import { getLangNameFromCode, getLangCodeList } from 'language-name-map'
 console.log(getLangNameFromCode('uk').name); // Ukrainian
 console.log(getLangNameFromCode('uk').dir); // ltr
 console.log(getLangNameFromCode('uk').native); // Українська
-console.log(getLangCodeList());
+console.log(getLangCodeList()); // Shows all the language codes.
 // =>
 [
   'aa',      'ab',  'af',  'ak',       'als', 'am',
@@ -65,9 +65,22 @@ console.log(languageNameMap)
   ...
 ```
 
-### Sources
+## Tests
+```bash
+npm test
+```
+
+## Changelog
+
+### 0.2.1
+- Add test;
+
+### 0.2.0
+- First release;
+
+## Sources
 https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code
 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
-### Many thank's
+## Many thank's
 https://currencyrate.today/
