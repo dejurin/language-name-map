@@ -1,10 +1,10 @@
- /*!
+/*!
  * language-name-map v0.2.3
  * (c) 2020 Yurii Derevych
  * Released under the BSD-2-Clause License.
  */
 
-'use strict';
+'use strict'
 
 /**
  * @author Yurii Derevych <gkhelloworld@gmail.com>
