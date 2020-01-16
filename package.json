@@ -1,11 +1,39 @@
 {
   "name": "language-name-map",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "A function to lookup the language name for a given locale code. In data included: english names, native names and directionality.",
   "main": "language-name-map.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard && tape test.js | tap-spec"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Yurii Derevych",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dejurin/language-name-map/issues"
+  },
+  "keywords": [
+    "languages",
+    "lang",
+    "language",
+    "code",
+    "name",
+    "iso",
+    "locales",
+    "map",
+    "list",
+    "l10n",
+    "l18n",
+    "localization",
+    "world",
+    "native language",
+    "English language",
+    "list of languages"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dejurin/language-name-map.git"
+  },
+  "dependencies": {
+    "tape": "^4.13.0"
+  }
 }

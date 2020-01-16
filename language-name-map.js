@@ -6,7 +6,8 @@ module.exports.getLangNameFromCode = function(langCode) {
   if (typeof langCode !== 'string') return undefined
   const code = langCode.toLowerCase()
   if (!languageNameMap.hasOwnProperty(code)) return undefined
-  languageNameMap[code].dir = (parseInt(languageNameMap[code].dir) === 1) ? 'ltr':'rtl';
+  const dir = (!!languageNameMap[code].dir) ? 'ltr':'rtl';
+  languageNameMap[code].dir = dir;
   return languageNameMap[code]
 }
 
