@@ -72,7 +72,7 @@ npm test
 
 ## Changelog
 
-### 0.2.3
+### 0.2.4
 - Add test;
 - Test OK
 
