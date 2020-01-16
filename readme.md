@@ -18,10 +18,10 @@ const { getLangNameFromCode, getLangCodeList } = require('language-name-map')
 // ES6
 import { getLangNameFromCode, getLangCodeList } from 'language-name-map'
 
-console.log(getLangNameFromCode('uk').name); // Ukrainian
-console.log(getLangNameFromCode('uk').dir); // ltr
-console.log(getLangNameFromCode('uk').native); // Українська
-console.log(getLangCodeList()); // Shows all the language codes.
+getLangNameFromCode('uk').name // Ukrainian
+getLangNameFromCode('uk').dir // ltr
+getLangNameFromCode('uk').native // Українська
+getLangCodeList() // Shows all the language codes.
 // =>
 [
   'aa',      'ab',  'af',  'ak',       'als', 'am',
