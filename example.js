@@ -12,4 +12,4 @@ console.log(getLangNameFromCode('uk').name);
 console.log(getLangNameFromCode('uk').dir);
 console.log(getLangNameFromCode('uk').native);
 console.log(getLangCodeList());
-//console.log(languageNameMap);
+console.log(languageNameMap);
