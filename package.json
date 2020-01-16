@@ -1,6 +1,6 @@
 {
   "name": "language-name-map",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "A function to lookup the language name for a given locale code. In data included: english names, native names and directionality.",
   "main": "language-name-map.js",
   "scripts": {
