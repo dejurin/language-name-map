@@ -72,8 +72,9 @@ npm test
 
 ## Changelog
 
-### 0.2.1
+### 0.2.3
 - Add test;
+- Test OK
 
 ### 0.2.0
 - First release;
