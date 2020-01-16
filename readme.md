@@ -1,9 +1,8 @@
 # language-name-map
-(5,5 kb gzip)
 
-[![Build Status](https://travis-ci.org/dejurin/language-name-map.svg?branch=master)](https://travis-ci.org/dejurin/language-name-map)
+[![Build Status](https://travis-ci.org/dejurin/language-name-map.svg?branch=master)](https://travis-ci.org/dejurin/language-name-map) ![npm](https://img.shields.io/npm/v/language-name-map?style=flat) ![npm](https://img.shields.io/npm/dm/language-name-map.svg?style=flat)
 
-A function to lookup the language name for a given locale code. In data included: english names, native names and directionality.
+A function to lookup the language name for a given locale ISO 639-1 code. In data included: english names, native names and directionality.
 
 Inspired by https://github.com/bengourley/currency-symbol-map
 
@@ -264,7 +263,7 @@ npm test
 
 ## Changelog
 
-### 0.2.6
+### 0.2.7
 - Add table with language code, names, native and directionality
 
 ### 0.2.4
