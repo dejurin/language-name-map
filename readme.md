@@ -1,5 +1,7 @@
 # language-name-map
 
+[![Build Status](https://travis-ci.org/dejurin/language-name-map.svg?branch=master)](https://travis-ci.org/dejurin/language-name-map)
+
 A function to lookup the language name for a given locale code. In data included: english names, native names and directionality.
 
 Inspired by https://github.com/bengourley/currency-symbol-map
