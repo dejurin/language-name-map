@@ -1,4 +1,5 @@
 # language-name-map
+(5,5 kb gzip)
 
 [![Build Status](https://travis-ci.org/dejurin/language-name-map.svg?branch=master)](https://travis-ci.org/dejurin/language-name-map)
 
