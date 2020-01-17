@@ -452,7 +452,7 @@ npm test
 
 ## Changelog
 
-### 0.2.9
+### 0.3.0
 - Add table with language code, names, native and directionality
 
 ### 0.2.4

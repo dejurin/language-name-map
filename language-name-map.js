@@ -1,5 +1,5 @@
 /*!
- * language-name-map v0.2.9
+ * language-name-map v0.3.0
  * (c) 2020 Yurii Derevych
  * Released under the BSD-2-Clause License.
  */
@@ -15,7 +15,7 @@
  *     getLangNameFromCode('uk').dir
  *     getLangCodeList()
  * @public
- * @version 0.2.9
+ * @version 0.3.0
  * @license BSD-2-Clause
  */
 
