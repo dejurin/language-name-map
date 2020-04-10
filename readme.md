@@ -471,3 +471,5 @@ https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code
 https://currencyrate.today/
 
 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+
+https://fx-w.io/
